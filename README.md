@@ -1,12 +1,13 @@
+# Private Tutoring Business Project
+
+## This is a website for a private tutoring business. Later on it will be advanced to a web application if possible.
+
+### The latter parts of the document are kept from the bootstrap template documentation.
+
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-## Preview
-
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
 ## Status
 
